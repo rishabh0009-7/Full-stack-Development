@@ -1,0 +1,13 @@
+there are some already build components website so that to u dont have to write css again and again by yourself
+https://ui.shadcn.com/
+https://ui.aceternity.com/
+https://daisyui.com/
+https://ant.design/
+
+
+the most imp thing in a website is font  not writing css it covers majority of your page 
+second is image
+and third is components
+
+
+the whole job of css is to selecting the component and styling the component 

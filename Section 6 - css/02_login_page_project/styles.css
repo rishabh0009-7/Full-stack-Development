@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #1a1a1a;
+    height: 100vh; 
+    /* height :100vh(100 percent of viewport height) is imp this will tell height of the page if not used it will take small potion of page as a height and our card will not come in center  */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    /* this will first try for aerial if its found its good it will be used  but nit then try helvetica and if its not then sans-serif */
+}
+
+.card{
+    background-color:#ffff;
+    border-radius: 8px;
+    padding: 30px;
+    width: 300px;
+    
+}
+
+h2{
+    color: #4f87aa;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form{
+    display:flex;
+    flex-direction: column;
+}
+
+input{
+    margin-bottom: 15px;
+    padding:10px ;
+    border-radius:5px ;
+    background-color: #d8d8d8;
+    border: 1px solid black;
+}
+
+button{
+    background-color: #1b81da;
+    color:#fff ;
+    padding: 10px;
+    border-radius: 8px;
+}
+button:hover{
+   background-color:#0741ac ; 
+}

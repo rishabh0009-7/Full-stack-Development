@@ -1,0 +1,13 @@
+this is file 1 
+
+ctrl + shift + p ---> command palette
+ctrl + p---> to move between files faster
+ctrl + , --> open settings file 
+
+ctrl + ` ---> terminal
+ctrl + b --> toggles sidebar
+alt + arrow key to move code up and down
+
+alt + click for multiple cursor
+
+ctrl + d highlights the same word if presend
