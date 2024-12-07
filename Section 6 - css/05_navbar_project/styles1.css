@@ -1,0 +1,78 @@
+body {
+  background-color: #1a1a1a;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 20px;
+  color: #ffff;
+}
+
+.nav-container {
+  margin-bottom: 40px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.nav1 {
+  border: 2px solid red;
+  background-color: #f8f9f8;
+  padding: 10px;
+}
+
+.nav1 ul {
+  list-style-type: none;
+  /* isse list ki dots gayab hojayegi */
+  display: flex;
+  justify-content: space-around;
+  /* kyuki har ul mai margin padding di hoti hai hamesha apna aap se isliye usko 0 kiya hai  */
+   margin: 0;
+  padding: 0;
+} 
+
+.nav1 li {
+  display: inline;
+  /* notthing will happen but its a good practice
+     */
+}
+
+.nav1 a {
+  text-decoration: none;
+  /* underline gone */
+  color: #202020;
+  /* background-color: #d45b04; */
+  padding: 7px 10px;
+  position: relative;
+  /* kyuki neeche absolute diya hai child ko to parent ko dena hoga relative */
+}
+/* The ::after pseudo-element in CSS is used to add content after an element's actual content. */
+/* note below format is compulsory everytime */
+/* using this for hover underline effect */
+.nav1 a::after{
+    content: "";
+    position: absolute;
+    height: 2px; 
+    /* undeline jo aayegi uski height */
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    background-color: #0a65c7;
+    transform: scaleX(0);
+    transition: transform 0.3s ease-in-out;
+
+}
+.nav1 a:hover::after{
+    transform: scaleX(1);
+
+
+
+}
+
+.nav1 .Login-btn {
+  background-color: #254bf6;
+  color: #ffff;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
