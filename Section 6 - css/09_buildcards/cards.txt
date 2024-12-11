@@ -1,0 +1,2 @@
+you can create card from codepen website which has already build card you can use them and modify them 
+just make a shopping item card 

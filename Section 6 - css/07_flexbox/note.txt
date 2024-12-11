@@ -1,0 +1,16 @@
+in the world of web development main axis runs from left to right
+display flex is compulsory to use flex box properties 
+flex direcvtion is used to change direct 
+justify content works on left to right 
+align item  works on top to bottom
+flex wrap :wrap means it will wrap all the content in a given space if there is shortage of space 
+ex 1234567890 chipak chipak ke the 
+flex wrap:wrap 
+12345
+67890
+
+order property is used to change the oredr by giving your own order number to that element
+ flex grow will increase the size of specific elemnt you want 
+
+
+ align self --> align item hi hai par individual eleemnt pe laga skta hai 
