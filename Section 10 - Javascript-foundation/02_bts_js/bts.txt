@@ -1,0 +1,8 @@
+earlier js file --> complier --> js code file  run
+now after node js 
+step1(before the code run time)
+code file --> parsing (in this it check js tokens and keyword )---> syntax tree
+step2
+after setp 1--> jit complier (just in time compiler creates byte code stage )---> byte code translation (byte code is not a machine code it is just before stage of machine code , it is imp becoz it makes faster to convert it into 0s and 1s ) --> machine code (0s and 1s)
+
+step 3 --> code execution

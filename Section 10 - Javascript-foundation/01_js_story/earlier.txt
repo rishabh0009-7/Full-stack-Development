@@ -1,0 +1,9 @@
+earlier javascript can only run on console there was no platform  then they created  v8 engine 
+but v8 engine was smaller picture so they wrap v8 engine and created a run time environemnt called node js so tha we can also run js on browser
+
+with javascript  we can build :
+interactive web pages 
+frontend web apps 
+backend 
+desktop apps
+mobile apps
