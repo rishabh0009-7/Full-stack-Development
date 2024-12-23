@@ -1,0 +1,8 @@
+structured query language-->sql databases(relational databases) --> mysql,oracle,postgressql,etc
+data in form of table
+
+not only  structured query language (nosql)--> mongodb
+data in form of json
+{
+   name:"rishabh"
+} 
