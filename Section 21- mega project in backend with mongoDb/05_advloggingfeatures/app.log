@@ -1,0 +1,12 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"6.884\"}","timestamp":"2024-12-26T10:40:54.715Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.465\"}","timestamp":"2024-12-26T10:42:03.867Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"0.461\"}","timestamp":"2024-12-26T10:42:15.730Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/teas/2\",\"status\":\"200\",\"responseTime\":\"0.899\"}","timestamp":"2024-12-26T10:42:44.258Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/teas/2\",\"status\":\"200\",\"responseTime\":\"0.313\"}","timestamp":"2024-12-26T10:43:06.879Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.259\"}","timestamp":"2024-12-26T10:43:38.881Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.347\"}","timestamp":"2024-12-26T10:43:39.777Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.214\"}","timestamp":"2024-12-26T10:43:40.581Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.451\"}","timestamp":"2024-12-26T10:43:41.538Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.472\"}","timestamp":"2024-12-26T10:46:17.783Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.275\"}","timestamp":"2024-12-26T10:46:58.457Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.356\"}","timestamp":"2024-12-26T10:48:10.699Z"}

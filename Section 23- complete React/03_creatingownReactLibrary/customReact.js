@@ -1,4 +1,4 @@
-//we are creating our own react library
+//we are creating our own react library (bts of react js)
 //  it might seem unnecessary to use JavaScript for something that HTML can already handle. However, the reason we build functions like customRender is to understand how frameworks like React work under the hood. Here's why this approach is meaningful:
 
 // function customRender (reactElement,container){
@@ -25,7 +25,7 @@ function customRender(reactElement, container) {
   // Append the created DOM element to the container
   container.appendChild(domElement);
 }
-
+//react mai h1>lorem aise nhi hota usme objects hi hota hai usme type  attributes  ye sa hota hai 
 // 1React element-like object
 const reactElement = {
   type: "a",
@@ -40,4 +40,4 @@ const reactElement = {
 const mainContent = document.querySelector("#root");
 
 //3 Render the React-like element into the main content
-customRender(reactElement, mainContent);
+customRender(reactElement, mainContent); // where do you want to inject and  what do you want to  inject
