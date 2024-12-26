@@ -1,0 +1,18 @@
+{
+  "name": "03_express2",
+  "version": "1.0.0",
+  "main": "express2.js",
+
+  "type":"module",
+  "scripts": {
+    "start":"node express2.js",
+      "dev":"nodemon express.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
